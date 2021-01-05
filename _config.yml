@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -33,3 +34,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 port: 5000
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 14f6a1b0a12d146315070070c1b4580f2fbdc7b6
